@@ -1,10 +1,10 @@
 # Mini-Courier Planner: Intelligent Delivery & Packing Optimization
 **Course:** Design & Analysis of Algorithms (ETCCDA302)  
 **Programme:** B.Tech CSE & Specializations  
-**Institution:** K.R. Mangalam University, Gurugram, Haryana  
+**Institution:** K.R. Mangalam University 
 **Faculty In-Charge:** Dr. Shweta Agarwal  
-**Student Name:** Saurabh  
-**Roll No.:** 2501010045  
+**Student Name:** Vansh Viraj Bisht
+**Roll No.:** 2501010183
 **Submission Mode:** GitHub / Zosima  
 
 ---
