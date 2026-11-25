@@ -1,0 +1,22 @@
+[
+  {"id": "P01", "weight": 5, "value": 12, "deadline": 45, "destination": "C01"},
+  {"id": "P02", "weight": 8, "value": 18, "deadline": 30, "destination": "C02"},
+  {"id": "P03", "weight": 3, "value": 8, "deadline": 60, "destination": "C03"},
+  {"id": "P04", "weight": 6, "value": 14, "deadline": 90, "destination": "C04"},
+  {"id": "P05", "weight": 4, "value": 10, "deadline": 25, "destination": "C05"},
+  {"id": "P06", "weight": 7, "value": 16, "deadline": 70, "destination": "C06"},
+  {"id": "P07", "weight": 2, "value": 5, "deadline": 40, "destination": "C07"},
+  {"id": "P08", "weight": 9, "value": 22, "deadline": 80, "destination": "C08"},
+  {"id": "P09", "weight": 5, "value": 11, "deadline": 55, "destination": "C09"},
+  {"id": "P10", "weight": 4, "value": 9, "deadline": 35, "destination": "C10"},
+  {"id": "P11", "weight": 6, "value": 15, "deadline": 65, "destination": "C01"},
+  {"id": "P12", "weight": 8, "value": 20, "deadline": 50, "destination": "C02"},
+  {"id": "P13", "weight": 3, "value": 7, "deadline": 85, "destination": "C03"},
+  {"id": "P14", "weight": 7, "value": 17, "deadline": 20, "destination": "C04"},
+  {"id": "P15", "weight": 5, "value": 13, "deadline": 75, "destination": "C05"},
+  {"id": "P16", "weight": 4, "value": 10, "deadline": 95, "destination": "C06"},
+  {"id": "P17", "weight": 9, "value": 21, "deadline": 110, "destination": "C07"},
+  {"id": "P18", "weight": 2, "value": 6, "deadline": 15, "destination": "C08"},
+  {"id": "P19", "weight": 6, "value": 14, "deadline": 105, "destination": "C09"},
+  {"id": "P20", "weight": 5, "value": 12, "deadline": 40, "destination": "C10"}
+]

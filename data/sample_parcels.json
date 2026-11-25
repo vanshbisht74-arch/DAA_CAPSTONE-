@@ -1,0 +1,8 @@
+[
+  {"id": "P1", "weight": 5, "value": 10, "deadline": 60, "destination": "C1"},
+  {"id": "P2", "weight": 8, "value": 15, "deadline": 30, "destination": "C2"},
+  {"id": "P3", "weight": 3, "value": 7, "deadline": 45, "destination": "C3"},
+  {"id": "P4", "weight": 6, "value": 12, "deadline": 90, "destination": "C4"},
+  {"id": "P5", "weight": 4, "value": 9, "deadline": 20, "destination": "C1"},
+  {"id": "P6", "weight": 7, "value": 14, "deadline": 75, "destination": "C5"}
+]
