@@ -2,7 +2,6 @@
 **Course:** Design & Analysis of Algorithms (ETCCDA302)  
 **Programme:** B.Tech CSE & Specializations  
 **Institution:** K.R. Mangalam University 
-**Faculty In-Charge:** Dr. Shweta Agarwal  
 **Student Name:** Vansh Viraj Bisht
 **Roll No.:** 2501010183
 **Submission Mode:** GitHub / Zosima  
